@@ -1,4 +1,4 @@
-s# Lab4-webAPI
+# Lab4-webAPI
 
 ##  Så här kör du
 1. Öppna projektet i **Visual Studio**  

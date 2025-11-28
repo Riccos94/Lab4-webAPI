@@ -1,0 +1,14 @@
+C:\Users\eriks\Downloads\web-API\web-API\bin\Debug\net10.0\web-API.exe
+C:\Users\eriks\Downloads\web-API\web-API\bin\Debug\net10.0\web-API.deps.json
+C:\Users\eriks\Downloads\web-API\web-API\bin\Debug\net10.0\web-API.runtimeconfig.json
+C:\Users\eriks\Downloads\web-API\web-API\bin\Debug\net10.0\web-API.dll
+C:\Users\eriks\Downloads\web-API\web-API\bin\Debug\net10.0\web-API.pdb
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.AssemblyInfoInputs.cache
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.AssemblyInfo.cs
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.dll
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\refint\web-API.dll
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.pdb
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\web-API.genruntimeconfig.cache
+C:\Users\eriks\Downloads\web-API\web-API\obj\Debug\net10.0\ref\web-API.dll
